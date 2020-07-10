@@ -2,6 +2,7 @@
 
 ## Installing Package
 
+- react-navigation
 - react-redux
 - redux
 - redux-thunk
